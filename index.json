@@ -2,16 +2,16 @@
 
 
 
-  "RupeesToEuro" :0.011 ,
-  "RupeesToDollar":0.012,
+  "RupeesToEuro": 0.011 ,
+  "RupeesToDollar": 0.012,
   
 
-  "EuroToRupees" :90.80,
- "EuroToDollar" :1.10,
+  "EuroToRupees": 90.80,
+  "EuroToDollar": 1.10,
 
 
-  "DollarToRupees":82.36,
-  "DollarToEuro":0.91,
+  "DollarToRupees": 82.36,
+  "DollarToEuro": 0.91,
 }  
 
 
